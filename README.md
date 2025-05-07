@@ -42,3 +42,10 @@ Uma **calculadora** simples implementada em Python utilizando o framework **Fast
    http://127.0.0.1:8000/docs
    ```
    Isso abrirá a documentação interativa da API.
+   
+## 📚 Lib
+
+Você pode instalar a biblioteca via pip:
+
+```bash
+pip install allicia-rocha-calculadora
