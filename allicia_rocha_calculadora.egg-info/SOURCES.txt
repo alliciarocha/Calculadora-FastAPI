@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+allicia_rocha_calculadora.egg-info/PKG-INFO
+allicia_rocha_calculadora.egg-info/SOURCES.txt
+allicia_rocha_calculadora.egg-info/dependency_links.txt
+allicia_rocha_calculadora.egg-info/requires.txt
+allicia_rocha_calculadora.egg-info/top_level.txt
